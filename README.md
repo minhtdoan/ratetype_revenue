@@ -6,7 +6,7 @@ This project examines the causal effect of using Corporate Contract Rates (CCR, 
 ## Business Context
 Understanding the impact of CCR rates matters to hotel management — balancing the potential benefits of discounted corporate bookings (e.g., volume and loyalty) against possible revenue losses. This section bridges the technical analysis with practical business implications, aiding stakeholders in interpreting results for pricing policy adjustments, contract negotiations, or market positioning.
 
-### Context
+### Objective
 In the hospitality industry, pricing strategies like Corporate Contract Rates (CCR) are designed to secure bookings from corporate clients by offering negotiated discounts, potentially fostering loyalty and consistent revenue streams. However, the financial impact of such discounts remains unclear — do they drive higher overall revenue through increased volume, or do they erode profits by reducing per-booking income? This analysis addresses this question for hotel management and revenue optimization teams. By quantifying the causal effect of CCR rates on revenue, the project helps stakeholders weigh the trade-offs between discount-driven volume and full-price profitability. The findings (e.g., a €509–558 revenue) suggest potential implications for contract negotiations, pricing policies, and resource allocation, though the practical significance may depend on hotel scale, market segment, and long-term strategic goals.
 
 ## Dataset
